@@ -8,10 +8,6 @@ In feature branch
 
 made changes to the file
 
-<<<<<<< HEAD
-now added row from develop
 
-=======
-added new row to test merge conflicts
->>>>>>> ba9a73e749385edea89f56580f51eb78919ad463
+now added row from develop
 
