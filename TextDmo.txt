@@ -8,3 +8,5 @@ In feature branch
 
 made changes to the file
 
+added new row to test merge conflicts
+
